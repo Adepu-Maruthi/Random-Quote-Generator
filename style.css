@@ -1,0 +1,9 @@
+body{
+    background-image: url(./images/bg.jpg);
+    background-size: cover;
+}
+#box{
+    margin-top: 30vh !important;
+    mix-blend-mode: luminosity;
+    filter: brightness(90%);
+}
